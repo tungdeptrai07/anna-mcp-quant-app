@@ -1,0 +1,10 @@
+{
+  "app_id": "anna-quant-mcp-copilot",
+  "name": "AnnaQuant MCP — On-Chain Whale & Portfolio Copilot",
+  "version": "1.0.0",
+  "category": "DeFi & Autonomous Agents",
+  "author": "Tung Nguyen (@tungdeptrai07)",
+  "protocol": "mcp-jsonrpc-2.0",
+  "Runtime": "Anna AI OS Canvas",
+  "tools": ["scan_whale_flows", "audit_token_contract", "simulate_rebalance"]
+}
